@@ -1,0 +1,13 @@
+[{
+    "model": "products.chip",
+    "pk": null,
+    "fields": {
+      "pn": "Chipdemo4Joe",
+      "sn": "212121212121",
+      "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",
+      "package": [["Domainer"],["Fintone"]],
+      "mfg_date": "2019-08-30",
+      "vendor": [["Regrant"]],
+      "speed_grade": 26
+    }
+  }]

@@ -1,0 +1,18 @@
+[
+  {
+    "model": "products.board",
+    "pk": null,
+    "fields": {
+      "pn": "testboard4joe",
+      "sn": "6666666666666666",
+      "chips": [["303"], ["26"]],
+      "description": "Duis at velit eu est co ante. Vivamus tortor. Duis mattis egestas metus.",
+      "certification": [["Subin"]],
+      "assigned_to": "7047048553",
+      "mfg_date": "2019-07-08",
+      "vendor": [["Stringtough"]],
+      "mac_address": "9356321647",
+      "service_log": "In hac lestie lorem. Quisque ut erat."
+    }
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Tampflex"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Bitchip"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Stringtough"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Y-Solowarm"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Mat Lam Tam"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Kanlam"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Latlux"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Alphazap"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Hatity"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Wrapsafe"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Redhold"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Zathin"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Rank"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Bytecard"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Transcof"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Temp"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Temp2"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Flowdesk"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Quo Lux"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Bitwolf"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Bamity"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Greenlam"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Pannier"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Bamity2"
+    }
+  },
+  {
+    "model": "products.formfactor",
+    "pk": null,
+    "fields": {
+      "name": "Tempsoft"
+    }
+  }
+]

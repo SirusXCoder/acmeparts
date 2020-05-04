@@ -1,0 +1,23 @@
+[
+  {
+    "model": "products.package",
+    "pk": null,
+    "fields": {
+      "name": "Overhold"
+    }
+  },
+  {
+    "model": "products.package",
+    "pk": null,
+    "fields": {
+      "name": "Treeflex"
+    }
+  },
+  {
+    "model": "products.package",
+    "pk": null,
+    "fields": {
+      "name": "Domainer"
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Tampflex",
+      "address": "Fintone",
+      "address2": "Veribet",
+      "city": "Y-find",
+      "state": "Stringtough",
+      "country": "Sonsing"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Transcof",
+      "address": "Temp",
+      "address2": "Sub-Ex",
+      "city": "Lotlux",
+      "state": "Stronghold",
+      "country": "Voltsillam"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Fintone",
+      "address": "Mat Lam Tam",
+      "address2": "Home Ing",
+      "city": "Redhold",
+      "state": "Subin",
+      "country": "Matsoft"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Home Ing",
+      "address": "Keylex",
+      "address2": "Biodex",
+      "city": "Domainer",
+      "state": "Sub-Ex",
+      "country": "Trippledex"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Treeflex",
+      "address": "Trippledex",
+      "address2": "Domainer",
+      "city": "Tres-Zap",
+      "state": "Quo Lux",
+      "country": "Sonair"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Bitwolf",
+      "address": "Solarbreeze",
+      "address2": "Keylex",
+      "city": "Konklux",
+      "state": "Zontrax",
+      "country": "Stronghold"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Redhold2",
+      "address": "Alphazap",
+      "address2": "Toughjoyfax",
+      "city": "Tempsoft",
+      "state": "Namfix",
+      "country": "Cardify"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Tresom",
+      "address": "Subin",
+      "address2": "Aerified",
+      "city": "It",
+      "state": "Greenlam",
+      "country": "Prodder"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Stringtough",
+      "address": "Bitwolf",
+      "address2": "Tampflex",
+      "city": "Viva",
+      "state": "Fix San",
+      "country": "Domainer"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Bitchip",
+      "address": "Zathin",
+      "address2": "Overhold",
+      "city": "Aerified",
+      "state": "Y-Solowarm",
+      "country": "Transcof"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Solarbreeze",
+      "address": "Flexidy",
+      "address2": "Veribet",
+      "city": "Fix San",
+      "state": "Konklux",
+      "country": "Sub-Ex"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Mat Lam Tam",
+      "address": "Bigtax",
+      "address2": "Holdlamis",
+      "city": "Lotlux",
+      "state": "Bitwolf",
+      "country": "Prodder"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Tampflex2",
+      "address": "Home Ing2",
+      "address2": "Tres-Zap",
+      "city": "Zoolab",
+      "state": "Duobam",
+      "country": "Flexidy"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Regrant",
+      "address": "Aerified",
+      "address2": "Zoolab",
+      "city": "Job",
+      "state": "Subin",
+      "country": "Domainer"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Stim",
+      "address": "Aerified",
+      "address2": "Ronstring",
+      "city": "Vagram",
+      "state": "Otcom",
+      "country": "Stim"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Bigtax",
+      "address": "Biodex",
+      "address2": "Treeflex",
+      "city": "Tin",
+      "state": "Fix San",
+      "country": "Keylex"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Lotlux",
+      "address": "Treeflex",
+      "address2": "Voltsillam",
+      "city": "Solarbreeze",
+      "state": "Bigtax",
+      "country": "Job"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Hatity",
+      "address": "Daltfresh",
+      "address2": "Sub-Ex",
+      "city": "Pannier",
+      "state": "Flexidy",
+      "country": "Zathin"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Subin",
+      "address": "Cardify",
+      "address2": "Solarbreeze",
+      "city": "Duobam",
+      "state": "Temp",
+      "country": "Fix San"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Matsoft",
+      "address": "Voyatouch",
+      "address2": "Namfix",
+      "city": "Ventosanzap",
+      "state": "Cardguard",
+      "country": "Biodex"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Keylex",
+      "address": "Tin",
+      "address2": "Hatity",
+      "city": "Job",
+      "state": "Tempsoft",
+      "country": "Tin"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Redhold",
+      "address": "Ronstring",
+      "address2": "Lotstring",
+      "city": "Alpha",
+      "state": "Biodex",
+      "country": "Cardguard"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Cookley",
+      "address": "Voyatouch",
+      "address2": "Redhold",
+      "city": "Namfix",
+      "state": "Cookley",
+      "country": "Trippledex"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Quo Lux",
+      "address": "Quo Lux",
+      "address2": "Prodder",
+      "city": "Treeflex",
+      "state": "Duobam",
+      "country": "Opela"
+    }
+  },
+  {
+    "model": "products.mfgLoc",
+    "pk": null,
+    "fields": {
+      "name": "Sub-Ex",
+      "address": "Ventosanzap",
+      "address2": "Ventosanzap",
+      "city": "Tempsoft",
+      "state": "Stronghold",
+      "country": "Vagram"
+    }
+  }
+]

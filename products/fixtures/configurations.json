@@ -1,0 +1,702 @@
+[
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Broadleaf Bamboo"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Script Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Florida Lady's Tresses"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Climbing False Buckwheat"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Rocky Mountain Fescue"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Zion Goldenbush"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Tonka Bean"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Pinewoods Cryptantha"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Dense Crowngrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Low Silverbush"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Dwarf Crested Iris"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Grimmia Dry Rock Moss"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Changing Fleabane"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Disc Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Douglas' Silverpuffs"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Fall Panicgrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Common Boneset"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "American Spurred Gentian"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Narrowleaf Goldenaster"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Creeping Phlox"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Annual Nehe"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Hawai'i Peperomia"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Bradley's Spleenwort"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Corkyfruit Waterdropwort"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Andrews' Clover"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Spidergrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Norwegian Ragged Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Diamondleaf Fogfruit"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Heartleaf Saxifrage"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Orange Wattle"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Cusick's Bluegrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Karanda"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Pink Azalea"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Desert Palafox"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Field Pumpkin"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Bullatina Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Missouri Foxtail Cactus"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Yam"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Angelica"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Joor Oak"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Threelobe Oxytheca"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Buffelgrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Lilyturf"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Pore Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Merrill's Rim Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Alpine Currant"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Spidergrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Lentil"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Bluntlobe Lupine"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Lehmann Lovegrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Mimusops"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Tidalmarsh Flatsedge"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Streambank Wild Hollyhock"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Transmontane Gilia"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Fiddleleaf Hawksbeard"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Arizona Baccharis"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Mountain Goldenbanner"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Scrobic"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Largeflower Yellow False Foxglove"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Aster"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Common Mallow"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Buck-horn Cholla"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Fineleaf Hymenopappus"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Thickleaf Yerba Santa"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Rhodesian Copalwood"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Oahu Melicope"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Phaeorrhiza Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Pride Of Big Pine"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Sulphur-flower Buckwheat"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Eastern Featherbells"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Brachythecium Moss"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Umbel Clerodendrum"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Beard Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Swamp Paperbark"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Bluntleaf Spikemoss"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Bracted Blazing Star"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Hinahina"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Indian Knob Mountainbalm"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Lost River Draba"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Washington Cracked Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Willmott's Rose"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Rio Inabon Maiden Fern"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Cindercone Isodendrion"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Autumn Coralroot"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Western Fumitory"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Shortawn Foxtail"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Wasatch Bluegrass"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Little Sweet Betsy"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Bigleaf Magnolia"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Mt. Hamilton Thistle"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Plummer's Mariposa Lily"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Rim Lichen"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Largeleaf Thoroughwort"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Celandine"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Puerto Rico Alfilerillo"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Horned Pondweed"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Lemon-flower Gum"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Cyclodictyon Moss"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Grampians Gum"
+    }
+  },
+  {
+    "model": "products.configuration",
+    "pk": null,
+    "fields": {
+      "name": "Fall Tansyaster"
+    }
+  }
+]

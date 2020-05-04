@@ -1,0 +1,28 @@
+[
+  {
+    "model": "products.chip",
+    "pk": null,
+    "fields": {
+      "pn": "18",
+      "sn": "4",
+      "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "package": [["Fintone"]],
+      "mfg_date": "2019-06-11",
+      "vendor": [["Home Ing"]],
+      "speed_grade": 1
+    }
+  },
+  {
+    "model": "products.chip",
+    "pk": null,
+    "fields": {
+      "pn": "26230",
+      "sn": "13958",
+      "description": "Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+      "package": [["Treeflex"], ["Overhold"]],
+      "mfg_date": "2020-01-18",
+      "vendor": [["Transcof"]],
+      "speed_grade": 2
+    }
+  }
+]

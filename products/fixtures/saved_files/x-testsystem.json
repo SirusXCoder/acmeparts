@@ -1,0 +1,19 @@
+[{
+    "model": "products.system",
+    "pk": null,
+    "fields": {
+      "pn": "testsystem4joe",
+      "sn": "0662099184",
+      "boards": [["4456055464"]],
+      "description": "Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
+      "package": [["Fintone"]],
+      "certification": [["Overhold"],["Domainer"]],
+      "assigned_to": "3159174352",
+      "formfactor": ["Tampflex"],
+      "mfg_date": "2019-10-29",
+      "vendor": [["Transcof"]],
+      "mac_address": "7413695731",
+      "service_log": "Aliquam sit amet diam in magna bibendum imperdiet.",
+      "configuration": [["Florida Lady's Tresses"]]
+    }
+}]
