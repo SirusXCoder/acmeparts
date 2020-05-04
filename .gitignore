@@ -120,7 +120,11 @@ dmypy.json
 .pyre/
 
 .DS_Store
+ 
+db.sqlite3
+/media
+/vdev
+/static
 
-vdev/
-static/
+
 # End of https://www.gitignore.io/api/django
